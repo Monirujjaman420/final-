@@ -1,0 +1,5 @@
+{
+    "snyk.features.codeQuality": true,
+    "snyk.advanced.organization": "https://localhost:4000/api/v1/user//register",
+    "snyk.advanced.customEndpoint": "https://localhost:4000/api/v1/user//register"
+}
